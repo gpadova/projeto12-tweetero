@@ -1,6 +1,6 @@
 # dependencies
 /node_modules
-/tweeteroo
+/tweteroo
 
 #package-json
 package.json
